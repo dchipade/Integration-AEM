@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>maven Package</comment>
+<entry key="createdBy">darshanchipade</entry>
+<entry key="name">apple-content</entry>
+<entry key="created">2015-07-21T12:57:50.445-0700</entry>
+<entry key="groupId">com.adobe.apple</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">mavenprojectsetup</entry>
+<entry key="description">Maven Multimodule project for maven.</entry>
+<entry key="artifactId">apple-content</entry>
+<entry key="path">/etc/packages/mavenprojectsetup/apple-content.zip</entry>
+</properties>
