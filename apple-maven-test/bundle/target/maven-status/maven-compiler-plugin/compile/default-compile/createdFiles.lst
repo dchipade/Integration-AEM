@@ -1,0 +1,4 @@
+org/apple/maven/test/impl/filters/LoggingFilter.class
+org/apple/maven/test/package-info.class
+org/apple/maven/test/impl/HelloServiceImpl.class
+org/apple/maven/test/HelloService.class
